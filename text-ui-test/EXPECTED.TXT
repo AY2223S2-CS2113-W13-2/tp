@@ -5,5 +5,5 @@ Hello from
 | |_| | |_| |   <  __/
 |____/ \__,_|_|\_\___|
 
-type: generate x (where x is a positive integer)
-Good Bye!
+What is your name?
+Hello James Gosling
